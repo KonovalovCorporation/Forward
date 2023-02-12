@@ -2776,12 +2776,6 @@ button.btn_voilet_next {
   }
 }
 
-@media (max-width: 25em) {
-  .directions__body {
-    margin: 0 50px;
-  }
-}
-
 @media (max-width: 96.25em) {
   .directions__body {
     margin: 0 100px;
@@ -3254,6 +3248,10 @@ button.btn_voilet_next {
 
   .main-block__text {
     padding: 0 12%;
+  }
+
+  .directions__body {
+    margin: 0 50px;
   }
 }
 
